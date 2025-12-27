@@ -48,6 +48,10 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+  {
+    id: "resume",
+    title: "Resume",
+  }
 ];
 
 const services = [
@@ -198,6 +202,7 @@ const projects = [
     ],
     image: Mojito,
     source_code_link: "https://lnkd.in/eBxMcCGf",
+    live_link: "https://gsap-cocktails-one-kappa.vercel.app"
   },
   {
     name: "QuickChat",
@@ -225,6 +230,7 @@ const projects = [
     ],
     image: chat01,
     source_code_link: "https://lnkd.in/gNRaYFbM",
+    live_link: "https://chatty-zkcs.vercel.app"
   },
   {
     name: "Quick AI",
@@ -250,6 +256,7 @@ const projects = [
     ],
     image: quickai,
     source_code_link: "https://github.com/",
+    live_link: "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
   },
 ];
 
