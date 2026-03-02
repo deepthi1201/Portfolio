@@ -255,8 +255,8 @@ const projects = [
       }
     ],
     image: quickai,
-    source_code_link: https://github.com/deepthi1201/Quick-Ai,
-    live_link: https://quick-ai-ab.vercel.app/
+    source_code_link: https:"//github.com/deepthi1201/Quick-Ai",
+    live_link: https:"//quick-ai-ab.vercel.app/"
   },
 ];
 
