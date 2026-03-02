@@ -255,8 +255,8 @@ const projects = [
       }
     ],
     image: quickai,
-    source_code_link: "https://github.com/",
-    live_link: "https://www.nopcommerce.com/images/thumbs/0005720_coming-soon-page_550.jpeg"
+    source_code_link: https://github.com/deepthi1201/Quick-Ai,
+    live_link: https://quick-ai-ab.vercel.app/
   },
 ];
 
